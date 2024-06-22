@@ -7,4 +7,5 @@
 [spam_classification.ipynb](https://github.com/sarasafaee/nlp_basics/blob/main/spam_classification.ipynb)
 ## Text spam classification using word embedding and LSTM : 
 ## Saving and loading Keras models :
+[tensorflow doc](https://www.tensorflow.org/guide/keras/serialization_and_saving) , [save_model.ipynb]()
 ## Hugging face :
