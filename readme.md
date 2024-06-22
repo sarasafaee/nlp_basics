@@ -5,6 +5,6 @@
 (python keras)
 ## Text spam classification using TFIDF : 
 [spam_classification.ipynb](https://github.com/sarasafaee/nlp_basics/blob/main/spam_classification.ipynb)
-## Text spam classification using word embedding and LSTM :
-## Saving the model :
+## Text spam classification using word embedding and LSTM : 
+## Saving and loading Keras models :
 ## Hugging face :
