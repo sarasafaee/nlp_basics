@@ -6,6 +6,8 @@
 ## Text spam classification using TFIDF : 
 [spam_classification.ipynb](https://github.com/sarasafaee/nlp_basics/blob/main/spam_classification.ipynb)
 ## Text spam classification using word embedding and LSTM : 
+[spam_classification_word_embedding.ipynb](https://github.com/sarasafaee/nlp_basics/blob/main/spam_classification_word_embedding.ipynb)
 ## Saving and loading Keras models :
 [tensorflow doc](https://www.tensorflow.org/guide/keras/serialization_and_saving) , [save_model.ipynb]()
 ## Hugging face :
+[hugging_face_example.ipynb]()
