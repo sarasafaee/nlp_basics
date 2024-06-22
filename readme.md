@@ -1,4 +1,4 @@
-## Stemming and lemmatization :
+## Stemming, lemmatization and tokenization:
 [nlp_basic.ipynb](https://github.com/sarasafaee/nlp_basics/blob/main/nlp_basics.ipynb)
 ## Word embedding :
 [word_embedding.ipynb](https://github.com/sarasafaee/nlp_basics/blob/main/word_embedding.ipynb) 
