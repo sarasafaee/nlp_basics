@@ -11,3 +11,12 @@
 [tensorflow doc](https://www.tensorflow.org/guide/keras/serialization_and_saving) , [spam_classification_word_embedding.ipynb](https://github.com/sarasafaee/nlp_basics/blob/main/spam_classification_word_embedding.ipynb)
 ## Hugging face :
 [hugging_face_example.ipynb]()
+
+## Attention mechanism :
+- what is it ? It allows models to focus on the most relevant parts of an input sequence when making predictions.
+Important article -> [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+
+## Transformers : 
+- what are they ? Transformers are a deep learning architecture in NLP that uses the attention mechanism to analyze relationships between words in a sentence, enabling them to excel at various tasks.
+Important article -> [Attention Is All You Need
+](https://arxiv.org/abs/1706.03762)
